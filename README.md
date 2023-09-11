@@ -16,7 +16,7 @@ Let's make this journey even more incredible together! By following my GitHub pr
 
 If you'd like to support my passion for IPTV playlist curation and open-source contributions, consider making a donation. Your contribution goes a long way in keeping the IPTV content flowing. 💰
 
-⚠️ Caution: Terms of Use
+⚠️ Caution: Terms of Use:
 While all my projects are free and open for personal and educational use, I kindly request that you avoid using them for commercial purposes. Please respect any licensing or usage restrictions specified within each project's repository. While attribution isn't mandatory, it's certainly appreciated. 🙏
 
 🚀 Let's Connect:

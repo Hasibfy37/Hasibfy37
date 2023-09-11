@@ -23,5 +23,22 @@ While all my projects are free and open for personal and educational use, I kind
 This tech-filled adventure is best enjoyed together! Feel free to reach out, collaborate, and let's create something amazing. Together, we'll make technology a more entertaining and accessible experience for everyone! 🚀✨
 
 
+Certainly! Here are my two repositories in a listed view:
+
+1. [IPTV Playlist Manager](https://github.com/Hasibfy37/Iptv)
+   - Description: A versatile IPTV playlist manager for a seamless entertainment experience.
+   - Tags: IPTV, Playlist, Entertainment
+   - ![Stars](https://img.shields.io/github/stars/Hasibfy37/Iptv?style=flat-square)
+   - ![Forks](https://img.shields.io/github/forks/Hasibfy37/Iptv?style=flat-square)
+   - ![License](https://img.shields.io/github/license/Hasibfy37/Iptv?style=flat-square)
+
+2. [Tech Toolbox](https://github.com/Hasibfy37/tech)
+   - Description: A repository of tech-related projects and experiments, including Python, AI, and more.
+   - Tags: Technology, Python, AI, Experiments
+   - ![Stars](https://img.shields.io/github/stars/Hasibfy37/tech?style=flat-square)
+   - ![Forks](https://img.shields.io/github/forks/Hasibfy37/tech?style=flat-square)
+   - ![License](https://img.shields.io/github/license/Hasibfy37/tech?style=flat-square)
+
+
 
 

@@ -19,9 +19,6 @@ If you'd like to support my passion for IPTV playlist curation and open-source c
 ⚠️ Caution: Terms of Use:
 While all my projects are free and open for personal and educational use, I kindly request that you avoid using them for commercial purposes. Please respect any licensing or usage restrictions specified within each project's repository. While attribution isn't mandatory, it's certainly appreciated. 🙏
 
-🚀 Let's Connect:
-This tech-filled adventure is best enjoyed together! Feel free to reach out, collaborate, and let's create something amazing. Together, we'll make technology a more entertaining and accessible experience for everyone! 🚀✨
-
 
 Certainly! Here are my two repositories in a listed view:
 
@@ -41,4 +38,6 @@ Certainly! Here are my two repositories in a listed view:
 
 
 
+🚀 Let's Connect:
+This tech-filled adventure is best enjoyed together! Feel free to reach out, collaborate, and let's create something amazing. Together, we'll make technology a more entertaining and accessible experience for everyone! 🚀✨
 

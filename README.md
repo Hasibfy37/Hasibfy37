@@ -19,6 +19,9 @@ If you'd like to support my passion for IPTV playlist curation and open-source c
 ⚠️ Caution: Terms of Use:
 While all my projects are free and open for personal and educational use, I kindly request that you avoid using them for commercial purposes. Please respect any licensing or usage restrictions specified within each project's repository. While attribution isn't mandatory, it's certainly appreciated. 🙏
 
+🌟 Enjoying My Projects? Give Them a Star! ⭐
+
+If you've found my projects helpful or interesting, consider giving them a star! Your star is a small gesture that means a lot and motivates me to keep creating and sharing. Together, we can make technology more accessible and enjoyable for everyone. Thank you for your support! 🚀✨
 
 Certainly! Here are my two repositories in a listed view:
 
